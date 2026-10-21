@@ -25,7 +25,7 @@ ERP Pyme Fácil S.A.S. publica servidores de demostración en Internet con datos
 ## 🎥 Video Demostrativo
 En el siguiente enlace se muestra el funcionamiento real del laboratorio, el despliegue de los agentes, la demostración de los 3 escenarios (FIM, Fuerza Bruta y Vulnerabilidad) y el flujo de gestión de tickets:
 
-▶️ **[Ver Video Demostrativo en YouTube (No listado)](AQUÍ_PEGA_EL_ENLACE_DE_YOUTUBE)**
+▶️ **https://drive.google.com/file/d/1j19dtzeVlBUmIfL_XoglvbK7ylG706uW/view?usp=drive_link**
 > *Nota: En los últimos minutos del video se muestra la infraestructura en VirtualBox con el servidor de Wazuh y las dos máquinas (Linux y Windows) vinculadas, junto con la gestión de tickets.*
 
 ---
